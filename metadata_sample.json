@@ -1,0 +1,6 @@
+{
+  "name": "Genesis Block Art",
+  "description": "The first NFT in the collection",
+  "image": "ipfs://Qm...",
+  "attributes": [{"trait_type": "Rarity", "value": "Legendary"}]
+}
