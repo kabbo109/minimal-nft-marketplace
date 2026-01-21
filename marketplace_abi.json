@@ -1,0 +1,4 @@
+[
+  "function listNft(address nftAddress, uint256 tokenId, uint256 price) external",
+  "function buyNft(address nftAddress, uint256 tokenId) external payable"
+]
