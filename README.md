@@ -12,3 +12,4 @@ A professional "flat-file" architecture for a decentralized NFT exchange. This r
 2. **Approve:** Grant the `Marketplace.sol` permission to transfer the asset.
 3. **List:** Set a price in Wei.
 4. **Buy:** A secondary user sends ETH to finalize the trade.
+YOLO badge test 😆
